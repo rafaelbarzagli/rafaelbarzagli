@@ -1,6 +1,6 @@
-# Olá, eu sou o Rafael 👋
+# Olá, eu sou o Rafael 
 
-Desenvolvedor de sistemas em formação, de Campinas/SP. Faço o curso técnico de Desenvolvimento de Sistemas no **SENAI** e a graduação na **UNIP**. Estou em busca da minha primeira oportunidade na área, aberto a vagas de front-end, back-end e full stack, onde eu possa contribuir e crescer junto com o time.
+Desenvolvedor de sistemas em formação, de Campinas/SP. Faço o curso técnico de Desenvolvimento de Sistemas no **SENAI** e a graduação na **UNIP**. Estou em busca de oportunidades novas na área, aberto a vagas de front-end, back-end e full stack, onde eu possa contribuir e crescer junto com o time.
 
 ## Tecnologias
 
